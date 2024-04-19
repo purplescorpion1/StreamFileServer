@@ -14,7 +14,7 @@ Open the script in notepad++
 Change port number to what you want
 
 ``` const serverRoot = 'C:/folder/folder'; // Set the path to your server root directory ``` <br>
-Change C:/foler/folder <br>
+Change C:/folder/folder <br>
 To where the script is running containing all your m3u files
 
 ``` const expectedUsername = 'username'; // Set your desired username ``` <br>

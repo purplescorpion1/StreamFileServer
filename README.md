@@ -13,7 +13,7 @@ Open the script in notepad++
 ``` const serverPort = 6025; // Set your desired port number ``` <br>
 Change port number to what you want
 
-``` const serverRoot = 'C:/foler/folder'; // Set the path to your server root directory ``` <br>
+``` const serverRoot = 'C:/folder/folder'; // Set the path to your server root directory ``` <br>
 Change C:/foler/folder <br>
 To where the script is running containing all your m3u files
 

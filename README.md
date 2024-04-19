@@ -31,3 +31,14 @@ if username = 123 <br>
 if password = abc <br>
 <br>
 ``` http://ipaddress:portnumber/file.m3u?username=123&password=abc ```
+
+### How to Access m3u in apps whilst outside your network
+Setup port forwarding on your router <br>
+Set a public port to forward to local port the script is running on <br>
+<br>
+if username = 123 <br>
+if password = abc <br>
+<br>
+``` http://publicipaddress:publicportnumber/file.m3u?username=123&password=abc ```
+
+

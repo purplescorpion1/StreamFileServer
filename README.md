@@ -2,6 +2,7 @@
 A File Server To Host Your m3u Files Across Your Network
 
 ### How To Insstall
+Requires node.js https://nodejs.org/en <br>
 ``` git clone https://github.com/purplescorpion1/StreamFileServer.git ``` <br>
 ``` cd StreamFileServer ``` <br>
 ``` npm install express axios ``` <br>

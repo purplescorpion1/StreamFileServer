@@ -1,5 +1,5 @@
 # Stream File Server
-A File Server To Host Your m3u Files Across Your Network
+A file server to host your m3u (or other files) files across your network
 
 ### How To Install - Windows
 If on Windows you have the option of just running the bundled version from the release section <br>

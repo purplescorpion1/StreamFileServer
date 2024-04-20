@@ -27,7 +27,7 @@ Change port number to what you want
 
 ``` const serverRoot = 'C:/folder/folder'; // Set the path to your server root directory ``` <br>
 Change C:/folder/folder <br>
-To where the script is running containing all your m3u files
+To where the script is running containing all your files you want host on the server
 
 ``` const expectedUsername = 'username'; // Set your desired username ``` <br>
 ``` const expectedPassword = 'password'; // Set your desired password ``` <br>

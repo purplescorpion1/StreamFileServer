@@ -36,7 +36,7 @@ Change the username and password fields to your user name and password leaving t
 ### How To Run
 ``` node server.js ```
 
-### How to Access m3u in apps
+### How to Access m3u (or other files) in apps
 You can either use localhost (if accessing on the machine the server is running on) or the ip address of the machine running the script for other devices <br>
 <br>
 To access files use the following url <br>
@@ -45,7 +45,7 @@ if password = abc <br>
 <br>
 ``` http://ipaddress:portnumber/file.m3u?username=123&password=abc ```
 
-### How to Access m3u in apps whilst outside your network
+### How to Access m3u (or other files) in apps whilst outside your network
 Setup port forwarding on your router <br>
 Set a public port to forward to local port the script is running on <br>
 <br>

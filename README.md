@@ -11,7 +11,7 @@ The username you wish to use <br>
 The password you wish to use <br>
 The location where your files are - important to use forward slashes in the file path eg C:/folder/folder <br>
 <br>
-Alternativly you can use the source code as explained below
+Alternatively you can use the source code as explained below
 
 ### How To Install via source code - All opperating systems that can run node
 Requires node.js https://nodejs.org/en <br>

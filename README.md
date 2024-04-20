@@ -1,7 +1,19 @@
 # Stream File Server
 A File Server To Host Your m3u Files Across Your Network
 
-### How To Insstall
+### How To Insstall - Windows
+If on Windows you have the option of just running the bundled version from the release section <br>
+https://github.com/purplescorpion1/StreamFileServer/releases <br>
+
+When you run the program it will ask you to enter <br>
+The port number you wish to use <br>
+The username you wish to use <br>
+The password you wish to use <br>
+The location where your files are - important to use forward slashes in the file path eg C:/folder/folder <br>
+<br>
+Alternativly you can use the source code as explained below
+
+### How To Insstall via source code - All opperating systems that can run node
 Requires node.js https://nodejs.org/en <br>
 ``` git clone https://github.com/purplescorpion1/StreamFileServer.git ``` <br>
 ``` cd StreamFileServer ``` <br>
